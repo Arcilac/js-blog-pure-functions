@@ -1,0 +1,11 @@
+{
+  "name": "js-blog-pure-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node run/index.js"
+  },
+  "author": "Camila Arcila",
+  "license": "MIT",
+  "description": "Examples of pure vs impure functions in JavaScript."
+}
